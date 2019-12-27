@@ -1,0 +1,16 @@
+{
+    "name": "eguchek/cost-inspector",
+    "description": "Daily notification about aws costs",
+    "type": "project",
+    "require": {
+        "eleirbag89/telegrambotphp": "^1.3",
+        "aws/aws-sdk-php": "^3.130",
+        "ext-json": "^1.6"
+    },
+    "authors": [
+        {
+            "name": "Eugeny Guchek",
+            "email": "eugeny.guchek@llsoft.by"
+        }
+    ]
+}
